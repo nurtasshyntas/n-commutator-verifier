@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Please cite the exact version or commit used to reproduce the computation."
+type: software
+title: "Exact verification of a 34-commutator in five variables"
+authors:
+  - family-names: Shyntas
+    given-names: Nurtas
+# No release or archival DOI has been issued.
+repository-code: "https://github.com/nurtasshyntas/n-commutator-verifier"
+keywords:
+  - polynomial vector fields
+  - standard polynomials
+  - exact computation
+  - computer-assisted proof

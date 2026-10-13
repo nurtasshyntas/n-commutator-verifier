@@ -1,0 +1,14 @@
+Recorded full computations: 2026-10-13
+Compiler: Apple clang version 17.0.0 (clang-1700.0.13.3)
+Compiler target: arm64-apple-darwin24.6.0
+Platform: Darwin arm64
+Build flags: -O3 -std=c++17
+Commands: ./direct_dense 5 Y left; ./direct_dense 5 Y right
+Bit extraction: portable fallback; BMI2 not enabled
+Source SHA-256: 55b62abe5604b6896716c39d3a01939d673566765e2aea3569c99ca6d51a9376
+Memo allocation: 2160564224 bytes
+Index allocation: 100663300 bytes
+Measured peak resident memory: not recorded
+Elapsed seconds reported by program: 227.349 (left), 189.857 (right)
+Coefficient arithmetic: checked signed 64-bit values with signed 128-bit sums
+Runtime and memory observations describe this run, not performance guarantees.
